@@ -6,7 +6,7 @@ VISEON is a Semantic Control Plane (operating system for AI) for governing organ
 
 **Canonical source: [viseon.io](https://viseon.io).** This organisation holds public reference material only.
 
-## Four solutions
+## Four solutions, all live
 
 - [VISEON for Web](https://viseon.io/viseon-for-web/): Semantic Entity Optimisation (SEO 3.0) and an MCP server for your website.
 - [VISEON for Enterprise](https://viseon.io/viseon-for-enterprise/): a governed Semantic Control Plane over your existing systems.
